@@ -43,7 +43,7 @@ I’m passionate about **building efficient workflows**, **solving complex techn
 
 ## 📫 How to Reach Me
 📧 **Email:** smithsonker1@gmail.com  
-🔗 **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/your-link)  
+  
 
 ---
 ⭐ *Check out my pinned repositories below for scripts, automation projects, and troubleshooting tools.*
