@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Smith Sonker
 
 💻 **Application Support Engineer | DevOps Enthusiast**  
-📍 India | 🌐 [LinkedIn Profile](https://linkedin.com/in/your-link)  
+📍 India | 🌐 [LinkedIn Profile](www.linkedin.com/in/smith-sonker-65b298112)  
 
 ---
 
