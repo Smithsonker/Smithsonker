@@ -1,49 +1,57 @@
 # 👋 Hi, I’m Smith Sonker
 
-💻 **Application Support Engineer | DevOps Enthusiast**  
-📍 India | 🌐 [LinkedIn Profile](http://www.linkedin.com/in/smith-sonker-65b298112)  
+Application Support Engineer | Technical Support | DevOps Enthusiast  
+Experienced in AWS, SQL, Python, Excel, and troubleshooting cloud-based applications.  
+Skilled in resolving complex production issues, optimizing workflows, and building automation tools.  
 
 ---
 
-## 🧑‍💻 About Me
-I am an Application Support Engineer with strong experience in troubleshooting, automation, and production support for cloud-based systems. Skilled in **AWS**, **Linux**, **SQL**, **Python**, **Docker**, **CI/CD pipelines**, and **monitoring tools**.
+## 🛠 Technical Support Projects
+### 1. **SQL Troubleshooting Queries**
+   - A curated collection of SQL queries for quick database debugging.
+   - Includes **window functions** for latest record retrieval & multi-table joins.
+   - **Tech:** MySQL, PostgreSQL, SQL Server.
 
-I’m passionate about **building efficient workflows**, **solving complex technical issues**, and **automating repetitive tasks** to improve operational efficiency.
+### 2. **Log Parser in Python**
+   - Parses server/application logs to extract error messages and aggregate statistics.
+   - Useful for **incident investigation** and **root cause analysis**.
+   - **Tech:** Python, Regex.
 
----
-
-## 🔧 Skills & Tools
-- **Cloud:** AWS (EC2, S3, RDS, CloudWatch)  
-- **Scripting:** Python, Bash, Shell  
-- **Databases:** MySQL, PostgreSQL, SQL Server  
-- **DevOps Tools:** Docker, Jenkins, GitHub Actions, Terraform  
-- **Monitoring:** Prometheus, Grafana, ELK Stack  
-- **Other:** Linux Administration, Networking Basics, API Debugging  
-
----
-
-## 📂 Featured Projects
-
-### 🛠 Technical Support Scripts
-- [**SQL Troubleshooting Queries**](#) – Collection of useful queries for quick database debugging.
-- [**Log Parser in Python**](#) – Extracts error messages and aggregates stats from server logs.
-- [**API Health Check Script**](#) – Monitors API status and sends alerts.
-
-### 🚀 DevOps Automation
-- [**Dockerized Sample App**](#) – Example of containerizing and running an app.
-- [**CI/CD Pipeline**](#) – Jenkins pipeline for automated testing & deployment.
-- [**AWS Infrastructure via Terraform**](#) – Spin up EC2 + S3 with IaC.
+### 3. **API Health Check Script**
+   - Periodically checks API endpoints and sends Slack/email alerts if the status is not 200.
+   - Helps detect service outages before impacting customers.
+   - **Tech:** Python, Requests, Slack API.
 
 ---
 
-## 📈 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+## 🚀 DevOps & Automation
+### 4. **Dockerized Sample App**
+   - Example of containerizing a Python web application.
+   - Includes a **Dockerfile** and `docker-compose.yml` for easy setup.
+   - **Tech:** Docker, Python, Flask.
+
+### 5. **CI/CD Pipeline**
+   - Jenkins pipeline for automated testing & deployment.
+   - Integrates GitHub commits → Jenkins → AWS EC2 deployment.
+   - **Tech:** Jenkins, Git, AWS EC2.
+
+### 6. **AWS Infrastructure via Terraform**
+   - Infrastructure-as-Code (IaC) example to spin up an EC2 instance and S3 bucket.
+   - Includes reusable Terraform modules.
+   - **Tech:** Terraform, AWS.
 
 ---
 
-## 📫 How to Reach Me
-📧 **Email:** smithsonker1@gmail.com  
-  
+## 📊 Skills
+- **Cloud:** AWS (EC2, S3, CloudWatch), Terraform
+- **Databases:** MySQL, PostgreSQL
+- **Languages:** Python, SQL, Bash
+- **Tools:** Docker, Jenkins, Git, Freshdesk, Rezo
+- **Other:** Incident Management, Root Cause Analysis, Process Optimization
 
 ---
-⭐ *Check out my pinned repositories below for scripts, automation projects, and troubleshooting tools.*
+
+## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/smithsonker](https://linkedin.com/in/smithsonker)
+- **GitHub:** [github.com/Smithsonker](https://github.com/Smithsonker)
+- **Email:** smithsonker1@gmail.com
